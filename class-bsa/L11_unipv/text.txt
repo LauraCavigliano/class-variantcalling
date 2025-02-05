@@ -1,0 +1,16 @@
+riga 1
+riga 2
+riga 3
+riga 4
+riga 5
+riga 6
+riga 7
+riga 8
+riga 9
+riga 10
+riga 11
+riga 12
+ciao
+come
+stai
+?
